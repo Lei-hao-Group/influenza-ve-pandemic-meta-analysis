@@ -1,0 +1,9 @@
+{
+  "retrieved_utc": "2026-07-21T11:00:06.804255+00:00",
+  "service": "https://extranet.who.int/map/rest/services/POLIS/GEODATABASE/MapServer",
+  "crs": "EPSG:4326",
+  "adm0_layer": 6,
+  "disputed_borders_layer": 0,
+  "adm0_max_allowable_offset_degrees": 0.01,
+  "disputed_max_allowable_offset_degrees": 0.005
+}
