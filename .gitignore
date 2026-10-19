@@ -1,0 +1,6 @@
+Results/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+Rplots.pdf

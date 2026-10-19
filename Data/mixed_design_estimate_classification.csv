@@ -1,0 +1,155 @@
+excel_row,Article ID,Author,VE,CI,estimate_design
+510,29,"Ferdinands et al., 2014",0.74,74% (19%-91%),TND
+511,29,"Ferdinands et al., 2014",-0.06,-6% (-243%-67%),TND
+512,29,"Ferdinands et al., 2014",0.82,82% (23%-96%),conventional CC
+513,29,"Ferdinands et al., 2014",-0.79,-79% (-514%-50%),conventional CC
+670,42,"Thompson et al., 2013",0.44,44% (5%-67%),TND
+671,42,"Thompson et al., 2013",0.51,51% (8%-74%),TND
+672,42,"Thompson et al., 2013",0.76,76% (22%-92%),TND
+673,42,"Thompson et al., 2013",0.58,58% (14%-79%),TND
+674,42,"Thompson et al., 2013",0.53,53% (24%-72%),conventional CC
+675,42,"Thompson et al., 2013",0.48,48% (3%-73%),conventional CC
+676,42,"Thompson et al., 2013",0.76,76% (19%-93%),conventional CC
+677,42,"Thompson et al., 2013",0.75,75% (51%-87%),conventional CC
+727,49,"Halme et al., 2022",0.47,47% (-16%-76%),conventional CC
+728,49,"Halme et al., 2022",0.5,50% (-28%-81%),conventional CC
+729,49,"Halme et al., 2022",0.5,50% (-40%-83%),conventional CC
+730,49,"Halme et al., 2022",0.52,52% (-48%-84%),conventional CC
+731,49,"Halme et al., 2022",0.82,82% (26%-96%),TND
+732,49,"Halme et al., 2022",0.11,11% (-29%-39%),conventional CC
+733,49,"Halme et al., 2022",0.1,10% (-42%-43%),conventional CC
+734,49,"Halme et al., 2022",0.22,22% (-28%-52%),conventional CC
+735,49,"Halme et al., 2022",0.29,29% (-20%-58%),conventional CC
+736,49,"Halme et al., 2022",0.21,21% (-179%-77%),TND
+737,49,"Halme et al., 2022",0.01,1% (-40%-30%),conventional CC
+738,49,"Halme et al., 2022",-0.27,-27% (-91%-15%),conventional CC
+739,49,"Halme et al., 2022",-0.24,-24% (-102%-24%),conventional CC
+740,49,"Halme et al., 2022",-0.2,-20% (-95%-26%),conventional CC
+741,49,"Halme et al., 2022",0.15,15% (-113%-66%),TND
+5245,220,"Choi et al. , 2013",0.495,49.5% (25.1%-67.7%),TND
+5246,220,"Choi et al. , 2013",0.508,50.8% (31.9%-64.4%),TND
+5247,220,"Choi et al. , 2013",-0.128,-12.8% (-2279.8%-94.7%),TND
+5248,220,"Choi et al. , 2013",0.458,45.8% (24.6%-61.1%),conventional CC
+5249,220,"Choi et al. , 2013",0.472,47.2% (26.0%-62.3%),conventional CC
+5250,220,"Choi et al. , 2013",0.729,72.9% (-305.6%-98.2%),conventional CC
+5251,220,"Choi et al. , 2013",0.508,50.8% (25.1%-67.7%),TND
+5252,220,"Choi et al. , 2013",0.587,58.7% (16.9%-79.5%),TND
+5253,220,"Choi et al. , 2013",0.002,0.2% (-155.8%-61.1%),TND
+5254,220,"Choi et al. , 2013",0.465,46.5% (16.6%-65.6%),conventional CC
+5255,220,"Choi et al. , 2013",0.633,63.3% (26.0%-81.8%),conventional CC
+5256,220,"Choi et al. , 2013",0.53,53.0% (-31.8%-83.2%),conventional CC
+5450,231,"Kimiya et al., 2018",0.6,60% (25%-89%),TND
+5451,231,"Kimiya et al., 2018",0.73,73% (47%-83%),TND
+5452,231,"Kimiya et al., 2018",0.07,7% (-119%-61%),TND
+5453,231,"Kimiya et al., 2018",0.77,77% (58%-88%),TND
+5454,231,"Kimiya et al., 2018",0.77,77% (56%-88%),TND
+5455,231,"Kimiya et al., 2018",0.78,78% (35%-93%),TND
+5456,231,"Kimiya et al., 2018",-0.05,-5% (-172%-59%),TND
+5457,231,"Kimiya et al., 2018",0.31,31% (-100%-76%),TND
+5458,231,"Kimiya et al., 2018",-0.55,-55% (-352%-47%),TND
+5459,231,"Kimiya et al., 2018",0.58,58% (31%-74%),TND
+5460,231,"Kimiya et al., 2018",0.65,65% (38%-80%),TND
+5461,231,"Kimiya et al., 2018",0.34,34% (-30%-67%),TND
+5462,231,"Kimiya et al., 2018",0.4,40% (17%-56%),conventional CC
+5463,231,"Kimiya et al., 2018",0.46,46% (18%-64%),conventional CC
+5464,231,"Kimiya et al., 2018",0.26,26% (-17%-53%),conventional CC
+5465,231,"Kimiya et al., 2018",0.36,36% (3%-57%),conventional CC
+5466,231,"Kimiya et al., 2018",0.28,28% (-25%-58%),conventional CC
+5467,231,"Kimiya et al., 2018",0.33,33% (-21%-62%),conventional CC
+5468,231,"Kimiya et al., 2018",0.58,58% (26%-76%),conventional CC
+5469,231,"Kimiya et al., 2018",0.72,72% (40%-87%),conventional CC
+5470,231,"Kimiya et al., 2018",0.32,32% (-49%-70%),conventional CC
+5471,231,"Kimiya et al., 2018",0.44,44% (15%-64%),conventional CC
+5472,231,"Kimiya et al., 2018",0.44,44% (3%-68%),conventional CC
+5473,231,"Kimiya et al., 2018",0.34,34% (-27%-66%),conventional CC
+5474,232,"Song et al., 2018",-0.143,-14.3% (-68.0%-22.2%),TND
+5475,232,"Song et al., 2018",-0.123,-12.3% (-66.9%-24.4%),TND
+5476,232,"Song et al., 2018",0.303,30.3% (-54.6%-68.6%),TND
+5477,232,"Song et al., 2018",0.314,31.4% (7.7%-49.1%),TND
+5478,232,"Song et al., 2018",0.303,30.3% (5.6%-48.6%),TND
+5479,232,"Song et al., 2018",0.445,44.5% (-0.5%-70.7%),TND
+5480,232,"Song et al., 2018",0.608,60.8% (33.6%-76.9%),TND
+5481,232,"Song et al., 2018",0.583,58.3% (28.6%-75.6%),TND
+5482,232,"Song et al., 2018",0.739,73.9% (26.0%-90.8%),TND
+5483,232,"Song et al., 2018",0.35,35% (14%-51%),conventional CC
+5484,232,"Song et al., 2018",0.31,31% (-39%-66%),conventional CC
+5485,232,"Song et al., 2018",0.51,51% (9%-73%),conventional CC
+5486,232,"Song et al., 2018",0.36,36% (20%-48%),conventional CC
+5487,232,"Song et al., 2018",0.62,62% (30%-79%),conventional CC
+5488,232,"Song et al., 2018",-0.04,-4% (-83%-41%),conventional CC
+5489,232,"Song et al., 2018",0.28,28% (-399%-89%),conventional CC
+5490,232,"Song et al., 2018",0.5,50% (-83%-86%),conventional CC
+5491,232,"Song et al., 2018",0.21,21% (-19%-48%),conventional CC
+5492,232,"Song et al., 2018",0.88,88% (48%-97%),conventional CC
+5493,232,"Song et al., 2018",0.42,42% (12%-62%),conventional CC
+5494,232,"Song et al., 2018",0.42,42% (-45%-76%),conventional CC
+5495,232,"Song et al., 2018",0.75,75% (27%-91%),conventional CC
+5496,232,"Song et al., 2018",0.41,41% (20%-57%),conventional CC
+5497,232,"Song et al., 2018",0.81,81% (46%-93%),conventional CC
+5498,232,"Song et al., 2018",0.63,63% (36%-78%),conventional CC
+5499,232,"Song et al., 2018",-1.81,-181% (-4807%-84%),conventional CC
+5500,232,"Song et al., 2018",-0.09,-9% (-408%-77%),conventional CC
+5501,232,"Song et al., 2018",0.63,63% (38%-78%),conventional CC
+5502,232,"Song et al., 2018",0.18,18% (-201%-78%),conventional CC
+6035,248,"Eick-Cost et al., 2012",0.16,16% (-1%-45%),conventional CC
+6036,248,"Eick-Cost et al., 2012",0.23,23% (-1%-42%),conventional CC
+6037,248,"Eick-Cost et al., 2012",0.11,11% (-15%-31%),conventional CC
+6038,248,"Eick-Cost et al., 2012",0.29,29% (-6%-53%),TND
+6039,248,"Eick-Cost et al., 2012",0.53,53% (25%-71%),TND
+6040,248,"Eick-Cost et al., 2012",-0.13,-13% (-77%-27%),TND
+7981,324,"Sugaya et al., 2018",0.49,49% (42%-55%),TND
+7982,324,"Sugaya et al., 2018",0.57,57% (50%-63%),TND
+7983,324,"Sugaya et al., 2018",0.34,34% (23%-44%),TND
+7984,324,"Sugaya et al., 2018",0.18,18% (-103%-67%),TND
+7985,324,"Sugaya et al., 2018",0.1,10% (-152%-68%),TND
+7986,324,"Sugaya et al., 2018",0.44,44% (-169%-89%),TND
+7987,324,"Sugaya et al., 2018",0.66,66% (54%-74%),TND
+7988,324,"Sugaya et al., 2018",0.73,73% (62%-81%),TND
+7989,324,"Sugaya et al., 2018",0.42,42% (9%-63%),TND
+7990,324,"Sugaya et al., 2018",0.59,59% (48%-68%),TND
+7991,324,"Sugaya et al., 2018",0.7,70% (60%-78%),TND
+7992,324,"Sugaya et al., 2018",0.38,38% (15%-55%),TND
+7993,324,"Sugaya et al., 2018",0.35,35% (21%-47%),TND
+7994,324,"Sugaya et al., 2018",0.37,37% (20%-51%),TND
+7995,324,"Sugaya et al., 2018",0.33,33% (14%-47%),TND
+7996,324,"Sugaya et al., 2018",0.38,38% (-10%-65%),TND
+7997,324,"Sugaya et al., 2018",0.36,36% (-39%-71%),TND
+7998,324,"Sugaya et al., 2018",0.42,42% (-14%-70%),TND
+7999,324,"Sugaya et al., 2018",0.45,45% (41%-49%),TND
+8000,324,"Sugaya et al., 2018",0.51,51% (47%-55%),TND
+8001,324,"Sugaya et al., 2018",0.32,32% (24%-38%),TND
+8002,324,"Sugaya et al., 2018",0.15,15% (-38%-48%),TND
+8003,324,"Sugaya et al., 2018",0.12,12% (-49%-48%),TND
+8004,324,"Sugaya et al., 2018",0.3,30% (-113%-77%),TND
+8005,324,"Sugaya et al., 2018",0.59,59% (48%-67%),TND
+8006,324,"Sugaya et al., 2018",0.61,61% (49%-69%),TND
+8007,324,"Sugaya et al., 2018",0.42,42% (9%-63%),TND
+8008,324,"Sugaya et al., 2018",0.53,53% (42%-61%),TND
+8009,324,"Sugaya et al., 2018",0.54,54% (43%-63%),TND
+8010,324,"Sugaya et al., 2018",0.48,48% (23%-65%),TND
+8011,324,"Sugaya et al., 2018",0.59,59% (52%-65%),TND
+8012,324,"Sugaya et al., 2018",0.63,63% (56%-69%),TND
+8013,324,"Sugaya et al., 2018",0.43,43% (24%-58%),TND
+8014,324,"Sugaya et al., 2018",0.58,58% (52%-64%),TND
+8015,324,"Sugaya et al., 2018",0.64,64% (58%-70%),TND
+8016,324,"Sugaya et al., 2018",0.44,44% (31%-54%),TND
+8017,324,"Sugaya et al., 2018",0.35,35% (26%-42%),TND
+8018,324,"Sugaya et al., 2018",0.38,38% (29%-46%),TND
+8019,324,"Sugaya et al., 2018",0.31,31% (20%-40%),TND
+8020,324,"Sugaya et al., 2018",0.32,32% (7%-49%),TND
+8021,324,"Sugaya et al., 2018",0.29,29% (-4%-51%),TND
+8022,324,"Sugaya et al., 2018",0.36,36% (5%-57%),TND
+8023,324,"Sugaya et al., 2018",0.45,45% (39%-52%),TND
+8024,324,"Sugaya et al., 2018",0.38,38% (28%-46%),TND
+8025,324,"Sugaya et al., 2018",0.41,41% (24%-54%),conventional CC
+8026,324,"Sugaya et al., 2018",0.55,55% (36%-68%),conventional CC
+8027,324,"Sugaya et al., 2018",0.23,23% (-9%-45%),conventional CC
+8028,324,"Sugaya et al., 2018",0.46,46% (26%-61%),TND
+8029,324,"Sugaya et al., 2018",0.59,59% (39%-73%),TND
+8030,324,"Sugaya et al., 2018",0.26,26% (-11%-51%),TND
+8031,324,"Sugaya et al., 2018",0.46,46% (36%-54%),conventional CC
+8032,324,"Sugaya et al., 2018",0.52,52% (42%-60%),conventional CC
+8033,324,"Sugaya et al., 2018",0.28,28% (4%-46%),conventional CC
+8034,324,"Sugaya et al., 2018",0.48,48% (35%-59%),TND
+8035,324,"Sugaya et al., 2018",0.54,54% (41%-65%),TND
+8036,324,"Sugaya et al., 2018",0.34,34% (6%-54%),TND
